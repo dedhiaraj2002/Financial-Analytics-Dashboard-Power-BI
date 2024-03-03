@@ -18,6 +18,7 @@ Old Model of Profit & Loss Statements
 <img width="606" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/6c3255f5-15d1-41f9-957f-5be83d7dd170">
 
 
+
 Old Model of Cash Flow statements
 <img width="615" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/fcc4b6a6-1368-44b3-9eef-df7437b2f7df">
 
