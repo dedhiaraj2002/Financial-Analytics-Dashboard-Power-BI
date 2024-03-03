@@ -15,10 +15,12 @@ Several shortcomings and challenges have been identified in the accounting and f
 
 Old Model of Profit & Loss Statements
 
-![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
+<img width="606" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/6c3255f5-15d1-41f9-957f-5be83d7dd170">
+
 
 Old Model of Cash Flow statements
-![Alt text](Assets/Outdated%20Reports/Outdated%20CF.png)
+<img width="615" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/fcc4b6a6-1368-44b3-9eef-df7437b2f7df">
+
     
 - ### **Challenges of Data Source (Xero)**
     - XERO, as basic accounting software, does not permit direct access to its database for users. Therefore, the only feasible option to retrieve data from a record is to export the spreadsheet.
@@ -127,16 +129,20 @@ Click here to expand!
 
 
 ### P&L Dashboard
-![Alt text](Assets/New%20Reports%20Dashboard/PL%20Dashboard.png)
+<img width="609" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/0a5619b2-c081-4dbf-a093-51c28b1a599c">
+
 
 ### Trend and Allocation Dashboard
-![Alt text](Assets/New%20Reports%20Dashboard/Trend%20Report.png)
+<img width="612" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/47cb9262-bce3-4e2a-8d55-0da8bbd87490">
+
 
 ### B&S Dashboard
-![Alt text](Assets/New%20Reports%20Dashboard/BS%20Dashboard.png)
+<img width="614" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/cec1eaff-3d96-4e38-bde5-df1d7cea024f">
+
 
 ### CashFlow Dashboard
-![Alt text](Assets/New%20Reports%20Dashboard/CashFlow%20Dashboard.png)
+<img width="611" alt="image" src="https://github.com/dedhiaraj2002/Financial-Analytics-Dashboard-Power-BI/assets/58104026/95e938cb-6048-43e2-bdab-f5fb738d6c04">
+
 
 
 ***
